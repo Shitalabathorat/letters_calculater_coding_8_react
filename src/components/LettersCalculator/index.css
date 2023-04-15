@@ -1,0 +1,38 @@
+/* Write your code here. */
+.container {
+  background-color: #1d976c;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.cart {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: white;
+}
+
+.para {
+  width: 120px;
+  margin-top: 20px;
+  color: #1d976c;
+}
+
+.input {
+  background-color: transparent;
+}
+.img {
+  width: 150px;
+  height: 150px;
+  margin-left: 50px;
+}
+.letters-calculator {
+  width: 150px;
+  height: 150px;
+  margin-left: 50px;
+}
